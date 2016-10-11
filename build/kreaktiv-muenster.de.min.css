@@ -86,7 +86,6 @@ html {
     font-family: arial
 }
 .about-section,
-.background-section,
 .home-section {
     height: auto!important;
     min-height: 100%
@@ -173,7 +172,8 @@ h3 {
 }
 .about-section {
     background: url(./img/ueberuns_background2.jpg) center no-repeat;
-    background-size: cover
+    background-size: auto;
+    size: 500px!important
 }
 .alumi-section {
     height: 450px!important;
