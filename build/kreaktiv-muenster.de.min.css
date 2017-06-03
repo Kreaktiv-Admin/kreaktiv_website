@@ -330,7 +330,7 @@ footer {
 .diamond,
 .diamond:hover,
 .diamondgrey {
-    positioin: relative;
+    position: relative;
     margin: auto auto 25px
 }
 .diamond {
@@ -339,12 +339,13 @@ footer {
     color: #fff;
     background-color: #08807d
 }
+/*
 .diamond:hover {
     width: 75px;
     height: 75px;
     color: #08807d;
     background-color: #acacad
-}
+}*/
 .diamondgrey,
 .diamondgrey:hover {
     width: 50px;
